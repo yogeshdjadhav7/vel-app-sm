@@ -12,6 +12,22 @@ pipeline {
 					}
 			
 			}
+
+		stage ("stage-2"){
+				
+					steps {
+								echo "this is stage-2"
+					}
+			
+			}
+
+		stage ("stage-3"){
+				
+					steps {
+								echo "this is stage-3"
+					}
+			
+			}
 	}
 
 }
