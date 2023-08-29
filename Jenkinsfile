@@ -8,7 +8,7 @@ pipeline {
 			stage ("stage-1"){
 				
 					steps {
-								echo "this is stage-1"
+								echo "this is 23q1"
 					}
 			
 			}
@@ -16,7 +16,7 @@ pipeline {
 		stage ("stage-2"){
 				
 					steps {
-								echo "this is stage-2"
+								echo "this is 23q1-2"
 					}
 			
 			}
@@ -24,7 +24,7 @@ pipeline {
 		stage ("stage-3"){
 				
 					steps {
-								echo "this is stage-3"
+								echo "this is 23q1-3"
 					}
 			
 			}
